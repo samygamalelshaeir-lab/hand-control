@@ -66,6 +66,7 @@ The result is in `dist/HandControl.exe`.
 
 - Volume keys work on Windows. On macOS, pyautogui cannot press volume keys.
 - Close other apps that use the camera (Zoom, browser tabs) before running.
+-    - Arrow keys and Space go to the window that has focus. Click on the video or slides you want to control, and keep the camera window visible beside it.
 
 ## License
 
