@@ -30,6 +30,9 @@ Requires Python 3.9 - 3.11.
 
 ```bash
    git clone https://github.com/samygamalelshaeir-lab/hand-control.git
+   cd hand-control
+   pip install -r requirements.txt
+   python hand_control.py
 ```
 
 ## How it works
