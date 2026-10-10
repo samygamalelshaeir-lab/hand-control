@@ -29,10 +29,7 @@ Press `q` in the camera window to quit.
 Requires Python 3.9 - 3.11.
 
 ```bash
-git clone https://github.com/<your-username>/hand-control.git
-cd hand-control
-pip install -r requirements.txt
-python hand_control.py
+   git clone https://github.com/samygamalelshaeir-lab/hand-control.git
 ```
 
 ## How it works
